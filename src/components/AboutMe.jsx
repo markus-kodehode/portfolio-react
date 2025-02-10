@@ -1,7 +1,7 @@
 import ProfileImage from "./ProfileImage";
 import ProfileIcons from "./ProfileIcons";
 import ProfileDetails from "./ProfileDetails";
-import AboutText from "./AboutText";
+import AboutText from "../AboutText";
 
 export default function AboutMe() {
   return (
